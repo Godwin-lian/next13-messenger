@@ -91,3 +91,6 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+## Acknowledgement
+this code was forked from AntonioErdeljac Repository, check out his account [Antonio](https://github.com/AntonioErdeljac/next13-messenger)
